@@ -29,4 +29,5 @@ I aspire to a career in web development, focusing on integrating AI and Big Data
 	- Automation of infrastructures with Infrastructure as Code (IaC)
 	- Development of secure web applications
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhazdon&layout=compact&theme=dark" width="380">
   
