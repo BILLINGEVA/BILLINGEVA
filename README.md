@@ -1,16 +1,32 @@
-## Hi there 👋
-
-<!--
-**BILLINGEVA/BILLINGEVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+👋 Hi, I’m @BILLINGEVA 
+
+🌐 Cloud & DevOps Engineer in Training | Web Development Enthusiast | Aspiring Web development
+
+👨‍🎓 Current further training:
+
+	- Cloud & DevOps Engineering
+	- Web development
+
+🔒 Self-study:
+
+	- FreeCodeCamp
+
+💼 Career goal:
+
+I aspire to a career in web development, focusing on integrating AI and Big Data to design      and protect innovative, scalable web applications.
+
+🚀 Skills & Technologies:
+
+	- Cloud Platforms: AWS, Azure, GCP
+	- DevOps tools: Docker, Kubernetes, Terraform, Jenkins
+	- Web development: HTML, CSS, JavaScript, React
+	- Cybersecurity: network security, threat analysis, penetration testing
+
+📚 Learning and project experience:
+
+	- Building secure CI/CD pipelines
+	- Automation of infrastructures with Infrastructure as Code (IaC)
+	- Development of secure web applications
+
+  
