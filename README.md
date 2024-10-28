@@ -30,4 +30,4 @@ I aspire to a career in web development, focusing on integrating AI and Big Data
 	- Development of secure web applications
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BILLINGEVA&layout=compact&theme=dark" width="380">
-  
+<img src="https://github-readme-stats.vercel.app/api?username=BILLINGEVA&show_icons=true&theme=dark" width="380">
